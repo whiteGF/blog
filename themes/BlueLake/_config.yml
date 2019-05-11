@@ -133,16 +133,6 @@ about:
   - label: github
     url: https://github.com/whiteGF
     title: https://github.com/whiteGF
-#  - label: weibo
-#    url: ## Your weibo's url e.g.  http://weibo.com/zhengchaooo
-#    title: ## Your weibo's name e.g.  秋过冬漫长
-# - label: twitter
-#   url: 
-#   title:
-# - label: facebook
-#   url:
-#   title:
-
 # Links widget. Empty links will hide widget.
 links:
   - title: My github
