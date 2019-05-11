@@ -14,6 +14,12 @@ categories:
  git push --set-upstream origin   分支名
 ````
 
+强行推送
+````
+git push -f
+````
+
+
 删除本地分支
 ````
 git branch -D  分支名
